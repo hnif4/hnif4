@@ -5,8 +5,6 @@ Perkenalkan nama saya **Siti Nur Hanifah**.
 
 Saya seorang **Pelajar* di SMKN 4 Bogor dengan jurusan Pengembangan Perangkat Lunak dan Gim.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ini atau instagram (stnhaniiifh) ku ya!
-
 <!--
 **hnif4/hnif4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
