@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-Perkenalkan nama saya **Siti Nur Hanifah**.
-
-Saya seorang **Pelajar* di SMKN 4 Bogor dengan jurusan Pengembangan Perangkat Lunak dan Gim.
 
 <!--
 **hnif4/hnif4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
