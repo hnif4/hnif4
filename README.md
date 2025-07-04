@@ -1,7 +1,7 @@
 ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Hanifah!%20👋&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D8ABC&center=true&vCenter=true&width=435&lines=Fresh+graduate+from+SMKN+4+Bogor;Fullstack+Laravel+Developer;JavaScript+Enthusiast;Avid+Reader+%26+Wattpad+Writer;Let's+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D8ABC&center=true&vCenter=true&width=435&lines=Junior-WebDeveloper;IT+Enthusiast;Wattpad+Writer;Let's+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
